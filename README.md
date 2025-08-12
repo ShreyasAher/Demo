@@ -1,3 +1,3 @@
 # Demo
 This is my repository <br>
-Author - Shreyas Aher
+Author - Shreyas Ganesh Aher
